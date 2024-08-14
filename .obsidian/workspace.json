@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9db6fda6355ad0c3",
+        "id": "b48ac57f36101d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "8e41008d22d0b6ef",
+            "id": "26c48b93e62faf0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "程序/前端/DirectX 12 3D游戏开发实战/第8章 光照.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3300b83ab343249a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "674fd617259f3fd7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -83,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5
   },
   "right": {
     "id": "91b037bf9254b526",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "程序/前端/DirectX 12 3D游戏开发实战/第8章 光照.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "程序/前端/DirectX 12 3D游戏开发实战/第8章 光照.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "程序/前端/DirectX 12 3D游戏开发实战/第8章 光照.md"
               }
             }
           }
@@ -152,16 +138,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "674fd617259f3fd7",
+  "active": "26c48b93e62faf0f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "程序/前端/DirectX 12 3D游戏开发实战/第8章 光照.md",
+    "程序/前端/DirectX 12 3D游戏开发实战/res/Pasted image 20240814132116.png",
+    "程序/前端/DirectX 12 3D游戏开发实战/res",
+    "程序/前端/DirectX 12 3D游戏开发实战/doc",
+    "程序/前端/DirectX 12 3D游戏开发实战/res/Pasted image 20240814131046.png",
+    "程序/前端/DirectX 12 3D游戏开发实战",
+    "程序/前端",
+    "程序"
   ]
 }
