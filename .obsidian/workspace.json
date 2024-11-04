@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/前端/DirectX 12 3D游戏开发实战/第11章 模板.md",
+                "file": "程序/前端/DirectX 12 3D游戏开发实战/第12章 几何着色器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第11章 模板"
+              "title": "第12章 几何着色器"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "5cdd52d3f340976d",
   "lastOpenFiles": [
-    "程序/前端/DirectX 12 3D游戏开发实战/第10章 混合.md",
     "程序/前端/DirectX 12 3D游戏开发实战/第11章 模板.md",
+    "程序/前端/DirectX 12 3D游戏开发实战/第12章 几何着色器.md",
+    "程序/前端/DirectX 12 3D游戏开发实战/第10章 混合.md",
     "程序/前端/DirectX 12 3D游戏开发实战/第8章 光照.md",
     "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241031144705.png",
     "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241031144641.png",
