@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序/后端/Linux教程/Linux vim.md",
+                "file": "程序/前端/DirectX 12 3D游戏开发实战/第10章 混合.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux vim"
+              "title": "第10章 混合"
             }
           }
         ]
@@ -164,11 +164,13 @@
   },
   "active": "5cdd52d3f340976d",
   "lastOpenFiles": [
+    "程序/前端/DirectX 12 3D游戏开发实战/第13章 计算着色器.md",
+    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241105160750.png",
+    "程序/前端/DirectX 12 3D游戏开发实战/第12章 几何着色器.md",
+    "程序/后端/Linux教程/Linux vim.md",
     "程序/后端/Linux教程/assets/Pasted image 20241104165041.png",
     "程序/后端/Linux教程/assets",
     "程序/后端/Linux教程/Linux用户和用户组管理.md",
-    "程序/后端/Linux教程/Linux vim.md",
-    "程序/前端/DirectX 12 3D游戏开发实战/第12章 几何着色器.md",
     "程序/后端/Linux教程",
     "程序/后端",
     "程序/前端/DirectX 12 3D游戏开发实战/第11章 模板.md",
@@ -183,8 +185,6 @@
     "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241030164543.png",
     "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241029164220.png",
     "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241029163901.png",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241009004236.png",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241008235911.png",
     "程序/三方库/protobufjs.md",
     "Welcome.md",
     "程序/前端/DirectX 12 3D游戏开发实战/assets",
