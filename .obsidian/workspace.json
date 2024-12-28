@@ -17,7 +17,9 @@
                 "file": "理财/股票/股票常识.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "股票常识"
             },
             "group": "e7130b8f51e0fc90"
           }
@@ -35,7 +37,9 @@
               "type": "outline",
               "state": {
                 "file": "理财/股票/股票常识.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "股票常识 的大纲"
             },
             "group": "e7130b8f51e0fc90"
           }
@@ -59,7 +63,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -74,7 +80,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -82,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -113,7 +123,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "股票常识 的反向链接列表"
             }
           },
           {
@@ -125,7 +137,9 @@
                 "file": "理财/股票/股票常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "股票常识 的出链列表"
             }
           },
           {
@@ -136,7 +150,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -146,7 +162,9 @@
               "type": "outline",
               "state": {
                 "file": "理财/股票/股票常识.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "股票常识 的大纲"
             }
           }
         ]
@@ -168,8 +186,17 @@
   },
   "active": "bb35d9b159f88368",
   "lastOpenFiles": [
-    "理财/股票/assets/92f83d022bc440ad36dbf776e9256c0.jpg",
-    "理财/股票/assets/807c4ab65e9a5bdf5003ffa02d872f6.jpg",
+    "理财/股票/assets/836e36957a1004492b62eb0e6e6a37b.jpg",
+    "理财/股票/assets/5e0f4bf8194e6c225582a8f2b8922ab.jpg",
+    "理财/股票/assets/ff3c9e810fe37cbe8fec3309e045fdc.jpg",
+    "理财/股票/assets/81e9ec4c5e8cd7ccf596097abf530ea.jpg",
+    "理财/股票/assets/fbe7eaa233d1905c812e03208c84a38.jpg",
+    "理财/股票/assets/ce2ff3017c488c9daa8f80c9e827114.jpg",
+    "理财/股票/assets/54da91e551d871dc9392892c688d520.jpg",
+    "理财/股票/assets/4fffc01822b16830b95b0fd2e06513a.jpg",
+    "理财/股票/assets/b102b5d089ce7f7429d9ebabcfd16e0.jpg",
+    "理财/股票/assets/a66cc0f3a0f8d77df3382796ac303f6.jpg",
+    "理财/股票/assets/f77fcf70eb3ee6728e8a9f24a093b18.jpg",
     "理财/股票/assets",
     "程序/前端/DirectX 12 3D游戏开发实战/第8章 光照.md",
     "理财/股票/股票常识.md",
@@ -177,23 +204,14 @@
     "理财/股票",
     "理财",
     "程序/前端/DirectX 12 3D游戏开发实战/第13章 计算着色器.md",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241105160750.png",
     "程序/前端/DirectX 12 3D游戏开发实战/第12章 几何着色器.md",
     "程序/后端/Linux教程/Linux vim.md",
-    "程序/后端/Linux教程/assets/Pasted image 20241104165041.png",
     "程序/后端/Linux教程/assets",
     "程序/后端/Linux教程/Linux用户和用户组管理.md",
     "程序/后端/Linux教程",
     "程序/后端",
     "程序/前端/DirectX 12 3D游戏开发实战/第11章 模板.md",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241031144705.png",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241031144641.png",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241031112038.png",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241031111659.png",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241031111056.png",
     "程序/前端/DirectX 12 3D游戏开发实战/第9章 纹理贴图.md",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241030164543.png",
-    "程序/前端/DirectX 12 3D游戏开发实战/assets/Pasted image 20241029164220.png",
     "程序/三方库/protobufjs.md",
     "Welcome.md",
     "程序/前端/DirectX 12 3D游戏开发实战/assets",
